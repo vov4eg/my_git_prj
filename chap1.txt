@@ -5,6 +5,6 @@
 Заголовок
 
 Step1 - step2
-
+#include chap2
 </p>
 </html>
